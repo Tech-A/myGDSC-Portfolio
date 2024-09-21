@@ -17,3 +17,10 @@ github: https://github.com/user/repo
 ---
 
 Write more details about your project here!
+
+# Heading 1
+## Heading 2 
+
+* bullet point 1
+*italicised text*
+**bolded text**
